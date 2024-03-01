@@ -26,7 +26,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RBU-2A-U6h">
                                 <rect key="frame" x="50" y="237.66666666666666" width="293" height="34.333333333333343"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="myButton"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Click here"/>
                                 <connections>
                                     <action selector="myButtonClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3Ay-9T-xZs"/>
                                 </connections>

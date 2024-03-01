@@ -19,8 +19,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func myButtonClicked(_ sender: UIButton) {
-        
+        myLabel.text = "Another text"
     }
     
 }
-
